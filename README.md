@@ -34,31 +34,6 @@ Diferente de um projeto desenvolvido apenas para estudo, esta aplicação foi cr
 * **Git** — Controle de versão;
 * **GitHub** — Hospedagem e versionamento do projeto.
 
-## 📂 Estrutura do projeto
-
-```text
-educa-facil-ead/
-│
-├── css/
-│   └── arquivos de estilização
-│
-├── img/
-│   └── imagens, ícones e elementos visuais
-│
-├── js/
-│   └── scripts JavaScript
-│
-├── .gitignore
-├── CNAME
-├── cursos.html
-├── googleeba3c5506c5f4ede.html
-├── index.html
-├── privacidade.html
-├── sobre.html
-├── termos.html
-└── README.md
-```
-
 ## 🖥️ Páginas
 
 | Página             | Descrição                           |

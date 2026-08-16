@@ -2,7 +2,7 @@
 
 ### Landing page institucional desenvolvida para uma empresa real do segmento educacional.
 
-![Preview do projeto](img/preview.png)
+![Preview do projeto](img/preview2.png)
 
 ## 📌 Sobre o projeto
 
